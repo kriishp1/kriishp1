@@ -7,7 +7,11 @@ Hello! I'm Kriish Patel, a CS student passionate about building web applications
 During this internship, I was exposed to many new technologies, such as PostgreSQL, Redis, and Google Cloud. I worked on improving features on both the front-end and back-end to enhance user interaction. This internship gave me insight
 on how companies collaborate with other teams to ensure a smooth flow of the project, a valuable skill. I’m always excited to take on new challenges and contribute to projects that create meaningful impact. 
 
-I am currently seeking a Summer 2026 Internship in Full stack developemnt, Software Engineering, or Web Application Development, where I can contribute to impactful projects while continuing to grow my technical skills. I’m also working on a project called SyncCord, a platform that allows users to easily integrate pre-made Discord bots into their servers. I’m building it using React.js, Express.js, Discord.py, and Supabase, focusing on responsive design, secure authentication, and seamless backend integration to ensure a smooth user experience.
+I am currently seeking a Summer 2026 Internship in Full stack developemnt, Software Engineering, or Web Application Development, where I can contribute to impactful projects while continuing to grow my technical skills. 
+
+I’m also working on a project called SyncCord, a platform that allows users to easily integrate pre-made Discord bots into their servers. I’m building it using React.js, Express.js, Discord.py, and Supabase, focusing on responsive design, secure authentication, and seamless backend integration to ensure a smooth user experience.
+
+![Project](syncCord.png)
 
 Previous projects that I have worked on consist of: 
 
