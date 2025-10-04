@@ -11,7 +11,7 @@ I am currently seeking a Summer 2026 Internship in Full stack developemnt, Softw
 
 Previous projects that I have worked on consist of: 
 
-## RoleRadar | REST API, Express.js, Twilio
+## [RoleRadar](https://github.com/kriishp1/internship-notifications) | REST API, Express.js, Twilio
 - Developed a web app that scans 100+ internship postings, delivering real-time alerts
 - Integrated Rapid API to filter listings by title and location
 - Implemented Twilio SMS notifications, sending instant alerts under 2 seconds
@@ -19,7 +19,7 @@ Previous projects that I have worked on consist of:
 - Automated internship discovery, cutting manual search time by 80%
 
 
-## Respondr | HTML, CSS, JavaScript, Maplibre GL JS, REST API
+## [Respondr](https://github.com/kriishp1/disaster-map) | HTML, CSS, JavaScript, Maplibre GL JS, REST API
 
 - Visualized 1,000+ global disaster events in a responsive web app
 - Integrated NASA EONET and USGS APIs for real-time filtering by year/type
