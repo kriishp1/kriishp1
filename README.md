@@ -11,8 +11,6 @@ I am currently seeking a Summer 2026 Internship in Full stack developemnt, Softw
 
 I’m also working on a project called SyncCord, a platform that allows users to easily integrate pre-made Discord bots into their servers. I’m building it using React.js, Express.js, Discord.py, and Supabase, focusing on responsive design, secure authentication, and seamless backend integration to ensure a smooth user experience.
 
-![Project](syncCord.png)
-
 Previous projects that I have worked on consist of: 
 
 ## [RoleRadar](https://github.com/kriishp1/internship-notifications) | REST API, Express.js, Twilio
