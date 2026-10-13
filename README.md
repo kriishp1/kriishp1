@@ -1,45 +1,47 @@
 # Hi, I'm Kriish 👋
 
-**Former Full Stack & DevOps Intern @ChrysApp | Student at UIC | Dedicated to building scalable web apps**
+**Computer Science @ UIC | Previous Technology Intern @ Morningstar | Full-Stack Developer**
 
 ## 🧑‍💻 About Me
-Hello! I'm Kriish Patel, a CS student passionate about building web applications and learning new technologies. I love working on full-stack projects that help make my life easier. Previously, I had the opportunity to intern at a UIC start-up called Chrysapp. I worked as a Full Stack Developer and DevOps Engineering Intern.
-During this internship, I was exposed to many new technologies, such as PostgreSQL, Redis, and Google Cloud. I worked on improving features on both the front-end and back-end to enhance user interaction. This internship gave me insight
-on how companies collaborate with other teams to ensure a smooth flow of the project, a valuable skill. I’m always excited to take on new challenges and contribute to projects that create meaningful impact. 
 
-I am currently seeking a Summer 2026 Internship in Full stack developemnt, Software Engineering, or Web Application Development, where I can contribute to impactful projects while continuing to grow my technical skills. 
+I'm Kriish Patel, a Computer Science student at the **University of Illinois Chicago** interested in software engineering, full-stack development, and building products that solve real problems.
 
-I’m also working on a project called SyncCord, a platform that allows users to easily integrate pre-made Discord bots into their servers. I’m building it using React.js, Express.js, Discord.py, and Supabase, focusing on responsive design, secure authentication, and seamless backend integration to ensure a smooth user experience.
+Most recently, I worked as a **Technology Intern at Morningstar**, where I contributed to production software and gained experience working with established codebases, debugging and testing features, participating in code reviews, and collaborating with engineers throughout the development process.
 
-Previous projects that I have worked on consist of: 
+Previously, I was a **Full Stack & DevOps Intern at ChrysApp**, a UIC startup, where I worked across the frontend, backend, and cloud infrastructure using technologies including **PostgreSQL, Redis, and Google Cloud**.
 
-## [RoleRadar](https://github.com/kriishp1/internship-notifications) | REST API, Express.js, Twilio
-- Developed a web app that scans 100+ internship postings, delivering real-time alerts
-- Integrated Rapid API to filter listings by title and location
-- Implemented Twilio SMS notifications, sending instant alerts under 2 seconds
-- Improved API requests and app state handling, making the app 30% faster
-- Automated internship discovery, cutting manual search time by 80%
+## 🚀 What I'm Building
 
+I'm currently building a **full-stack personal finance application** that explores how financial data can be transformed into more useful and actionable insights.
 
-## [Respondr](https://github.com/kriishp1/disaster-map) | HTML, CSS, JavaScript, Maplibre GL JS, REST API
+The project has involved **financial data integrations, authentication, backend services, database architecture, and intelligent data processing**, while giving me experience designing and developing a product from the ground up.
 
-- Visualized 1,000+ global disaster events in a responsive web app
-- Integrated NASA EONET and USGS APIs for real-time filtering by year/type
-- Designed modular CSS UI for multiple devices
-- Implemented multi-select filters for comparing disaster types
-- Reduced map rendering latency by 25%
+## 🛠️ Projects
 
-💻 If you'd like to see more of my work, feel free to visit my [Personal Portfolio](https://portfolio-z9aj-a9iza5eqc-kriishp11s-projects.vercel.app/)!
+### [RoleRadar](https://github.com/kriishp1/internship-notifications)
+**Express.js • REST APIs • Twilio**
 
+- Built a web app that scans **100+ internship postings** and delivers real-time alerts
+- Integrated APIs to filter opportunities by title and location
+- Implemented Twilio SMS notifications for near-instant alerts
+- Automated internship discovery, reducing manual search time
+
+### [Respondr](https://github.com/kriishp1/disaster-map)
+**JavaScript • MapLibre GL JS • REST APIs**
+
+- Visualized **1,000+ global disaster events** in an interactive web application
+- Integrated **NASA EONET and USGS APIs** for real-time disaster data
+- Built multi-select filtering for comparing disaster types and time periods
+- Optimized map rendering and data processing
 
 ## ⚡ Skills
-- **Languages:** Python, JavaScript, C++, HTML, CSS  
-- **Frameworks & Tools:** React.js, Node.js, Express, Tailwind, PostgreSQL, Git, Docker  
-- **Other:** Problem-solving, Project Management, Cloud Technologies
 
+**Languages:** Python, JavaScript, C++, C, HTML, CSS  
+**Frontend:** React.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Data & Cloud:** PostgreSQL, Redis, Docker, Google Cloud  
+**Tools:** Git, GitHub, Linux
 
+## 📫 Let's Connect
 
-
-
-
-
+💻 Check out my [portfolio](https://portfolio-z9aj-a9iza5eqc-kriishp11s-projects.vercel.app/) to see more of my work.
